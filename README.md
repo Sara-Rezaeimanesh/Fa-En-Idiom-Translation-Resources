@@ -2,7 +2,7 @@
 
 This repository includes the official resources of [My Paper Title](https://arxiv.org/abs/2030.12345).
    
-## Schema
+## Datasets
 
 PersianIdioms:
 > A comprehesive dataset containing 2200 Persian idioms and their meaning, sourced from the online dictionary "Abadis", with 700 idioms further enriched with contextual examples.
