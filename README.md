@@ -1,6 +1,6 @@
 # PersianIdioms and Fa-En Idiom Translation Parallel Datasets
 
-This repository includes the official resources of [My Paper Title](https://arxiv.org/abs/2030.12345).
+This repository includes the official resources of [A Comparative Study of LLMs, NMT Models, and Their Combination in Persian-English Idiom Translation](https://arxiv.org/abs/2412.09993).
    
 ## Datasets
 
